@@ -6,12 +6,12 @@ from pynput.mouse import Controller as MouseController
 
 # ----------
 # python 3.1.2
-# freepiano_auto
+# FreePiano_auto
 # 版权所有 (C) 2025年 狼元星
 
-# 这个文件是 freepiano_auto 的一部分。
+# 这个文件是 FreePiano_auto 的一部分。
 
-# freepiano_auto 是自由软件：您可以根据自由软件基金会发布的GNU通用公共许可证的条款重新分发和/或修改它，无论是许可证的第三版，还是（根据您的选择）任何后续版本。
+# FreePiano_auto 是自由软件：您可以根据自由软件基金会发布的GNU通用公共许可证的条款重新分发和/或修改它，无论是许可证的第三版，还是（根据您的选择）任何后续版本。
 
 # 这个程序是希望它能够有用，但不附带任何形式的保证；甚至不包括适销性或特定用途适用性的暗示保证。有关更多详细信息，请参阅GNU通用公共许可证。
 
